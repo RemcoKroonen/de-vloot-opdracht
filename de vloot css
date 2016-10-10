@@ -1,0 +1,130 @@
+body {
+	background-image: url("imgs vloot/bg.png");
+	width: 60px;
+	background-repeat: repeat-x;
+}
+
+h1 {
+    
+}
+
+
+h2 {
+	margin-top: 0;
+	margin-bottom: 0;
+	height: 50px;
+	padding-left: 10px;
+	padding-right: 10px;
+	
+}
+
+#een {
+	background-image: url("imgs vloot/header.jpg");
+	background-repeat: no-repeat;
+	height: 272px;
+	width: 800px;
+	margin: -20px 250px 0px 510px;
+	padding-left: 10px;
+}
+
+#twee {
+	margin-bottom: 130px;
+	margin-top: -30px;
+}
+
+li {
+    display: inline-block;
+}
+ul {
+	text-decoration: none;
+	display: inline-block;
+	word-spacing: 20px;
+	margin-top: 55px;
+	color: white;
+	margin-left: -20px;
+}
+
+#drie {
+	margin-left: 850%;
+	margin-right: 200;
+	margin-top: auto;
+	width: 800px;
+	height: 350px;
+	font-size: 20px;
+	background-color: white;
+}
+
+#vier {
+	padding-right: 140px;
+}
+
+p {
+	margin-top: 0;
+	text-align: justify;
+    font-family: "Arial", Times, Sans-serif;
+
+}
+
+img{
+	float: left;
+	padding-right: 30px;
+	padding-left: 20px;
+}
+#vijf {
+	float: right;
+	padding-right: 25px;
+	padding-top: 15px;
+}
+#zes {
+	padding-right: 30px;
+	padding-left: 30px;
+	padding-top: 10px;
+}
+#zeven {
+	padding-left: 5px;
+	padding-top: 10px;
+}
+#acht {
+	margin-top: 10px;
+}
+#negen {
+	float: right;
+	padding-top: 40px;
+}
+#tien {
+	float: right;
+}
+#elf {
+	padding-right: 20px;
+	padding-bottom: 10px;
+	padding-top: 20px;
+}
+#twaalf {
+	margin-top: 20px;
+}
+#dertien {
+	width: 250px;
+}
+#veertien {
+	float: right;
+	width: 250px;
+	padding-top: 10px;
+}
+
+#vijftien {
+	padding-top: 10px;
+	width: 200px;
+}
+
+/* unvisited link */
+a:link {
+    color: white;
+}
+
+/* visited link */
+a:visited {
+    color: blue;
+}
+#zestien {
+	padding-left: 20px;
+}
